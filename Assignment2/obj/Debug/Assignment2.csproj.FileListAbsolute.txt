@@ -1,0 +1,10 @@
+C:\Users\Tanveer\Desktop\projects\Assignment2\bin\Debug\Assignment4.exe.config
+C:\Users\Tanveer\Desktop\projects\Assignment2\obj\Debug\Assignment4.exe
+C:\Users\Tanveer\Desktop\projects\Assignment2\obj\Debug\Assignment4.pdb
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\bin\Debug\Assignment4.exe.config
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\bin\Debug\Assignment4.exe
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\bin\Debug\Assignment4.pdb
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\obj\Debug\Assignment4.exe
+C:\Users\Lindskog\Downloads\assgmnt2\Assignment2\obj\Debug\Assignment4.pdb
